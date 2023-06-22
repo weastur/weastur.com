@@ -13,7 +13,7 @@ social:
   whatsapp: m6kwpg
 about:
   enable: true
-  content: 2nd Year Durham Computer Science Student
+  content: Site Reliability Engineer with specialization in Python and DBMS.
   button:
     btnText: Find out more
     URL: "/about"
