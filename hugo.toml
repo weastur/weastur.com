@@ -1,4 +1,61 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://weastur.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Pavel Sapezhka'
 theme="hugo-developer-portfolio"
+googleAnalytics = ""
+enableGitInfo = true
+enableRobotsTXT = true
+
+[params.plugins]
+  [[params.plugins.css]]
+  URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/css/uikit.min.css"
+  [[params.plugins.js]]
+  URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit.min.js"
+  [[params.plugins.js]]
+  URL = "https://cdn.jsdelivr.net/npm/uikit@3.2.6/dist/js/uikit-icons.min.js"
+
+[menu]
+  [[menu.main]]
+  name = "About"
+  URL = "about"
+  weight=1
+
+  [[menu.main]]
+  name = "Portfolio"
+  URL = "portfolio"
+  weight=2
+
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
+  weight=3
+
+[author]
+email = "me@weastur.com"
+name = "Pavel Sapezhka"
+
+[params]
+home = "Home"
+description = ""
+author = "Pavel Sapezhka"
+
+[params.contact]
+enable = true
+formAction = "" #contact form works with formspree.io
+
+[params.footer]
+email = "me@weastur.com"
+address = "Limassol, Cyprus"
+googlemaps = ""
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = true
+    lineNumbersInTable = true
+    noClasses = true
+    style = "rainbow_dash"
+    tabWidth = 4
