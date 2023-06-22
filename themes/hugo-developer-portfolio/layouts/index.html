@@ -121,13 +121,13 @@
 
 
 
-<!-- portfolio -->
-{{ if .Site.Data.homepage.portfolio.enable }}
+<!-- projects -->
+{{ if .Site.Data.homepage.projects.enable }}
 
 <section class="uk-margin-large-bottom uk-margin-large-top">
     <div class="uk-container">
-        <h1 class="uk-heading-line  uk-heading-medium"><span>Portfolio</span></h1>
-        {{ range .Site.Data.homepage.portfolio.item }}
+        <h1 class="uk-heading-line  uk-heading-medium"><span>Projects</span></h1>
+        {{ range .Site.Data.homepage.projects.item }}
         <div>
         <h2 class="uk-text-center uk-text-bold uk-margin-large-top"> {{.title}} </h2>
         <div class="uk-flex uk-flex-center">
