@@ -2,13 +2,15 @@
 banner:
   title: Pavel Sapezhka
 social:
-  twitter: ""
+  mastodon: https://discuss.systems/@weastur
+  stackoverflow: 13375075/pavel-sapezhko
   linkedin: weastur
   github: weastur
-  gitlab: ""
-  facebook: ""
-  instagram: ""
-  gmail: samrobbinsgb
+  facebook: psapezhka
+  instagram: weastur
+  email: me@weastur.com
+  telegram: weastur
+  whatsapp: m6kwpg
 about:
   enable: true
   content: 2nd Year Durham Computer Science Student
