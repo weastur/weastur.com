@@ -122,22 +122,76 @@ skill:
         <p>I have written around fifteen custom exporters in Python and Golang. Additionally, I've contributed to community projects, emphasizing my commitment to improving and sharing knowledge within the tech community.</p>
     - title: Visualization
       logo: https://cdn.svgporn.com/logos/grafana.svg
-      description: Details coming soon, contact me if you want to know more
+      description: |
+        <p>I have extensively used Grafana for visualization, carrying out the entire setup cycle, configuration, and support. In addition to creating and managing backups, I've managed Grafana through Terraform, providing an Infrastructure as Code (IaC) approach to visualization management.</p>
+
+        <p>In the companies I've worked for, I've established general guidelines for creating charts, promoting consistency and clarity across teams. Part of my role has also been to reduce the load on metrics storage by correctly configuring dashboards.</p>
+
+        <p>Beyond Grafana, I've used Kibana from the ELK stack for visualization, creating custom dashboards as needed. This experience demonstrates my ability to adapt to different visualization tools and make insightful, comprehensive visual representations of data.</p>
     - title: Service descovery
       logo: https://cdn.svgporn.com/logos/consul.svg
-      description: Details coming soon, contact me if you want to know more
+      description: |
+        <p>My expertise with Consul extends to implementing secure access controls, managing the cluster's health, and facilitating seamless service-to-service communication. I have handled various use cases ranging from small-scale local developments to large-scale production environments with hundreds of services, demonstrating my versatility in diverse setups.</p>
+
+        <p>An essential part of my work with Consul involved designing service mesh architectures. This entailed managing network traffic flow between services, ensuring secure service-to-service communication, and enforcing policies.</p>
+
+        <p>With my proficiency in service discovery and networking, I've helped organizations improve their microservices architecture by enhancing the discoverability of services and making inter-service communication more reliable and secure.</p>
+
+        <p>In addition to etcd and Consul, I have familiarized myself with other service discovery tools and key-value stores like Zookeeper. I've used these tools to manage service metadata and orchestrate Docker containers in distributed systems, reinforcing my expertise in managing microservices at scale.</p>
+
+        <p>Overall, my extensive experience with service discovery tools like Consul and etcd demonstrates my understanding of modern distributed systems and my ability to manage and optimize these systems effectively.</p>
     - title: Credential management
       logo: https://cdn.svgporn.com/logos/vault-icon.svg
-      description: Details coming soon, contact me if you want to know more
+      description: |
+        <p>As a HashiCorp Certified Vault Associate, I understand Vault's architecture and features comprehensively, allowing me to manage secrets and protect sensitive data in different environments effectively.</p>
+
+        <p>I have utilized the dynamic secrets feature of Vault extensively, allowing systems to access databases, on-demand SSH sessions, cloud environments, and other services without knowing their credentials. These are generated on-the-fly, reducing the risk of exposure.</p>
+
+        <p>I have secured, stored, and tightly controlled access to tokens, passwords, certificates, and encryption keys for protecting secrets and other sensitive data using Vault. My understanding of Identity-based Access, ACL policies, and secret engines have allowed me to ensure that only authorized entities can access the data.</p>
+
+        <p>In terms of encryption, I have utilized Vault's transit secret engine to enable encryption as a service, providing cryptographic operations without revealing sensitive cryptographic keys. I have also implemented Vault's Key Management Secret Engine to manage cryptographic keys for external systems, further ensuring data security.</p>
+
+        <p>I've integrated Vault with Consul to provide high availability and secure the storage backend. In addition, I've used Vault's built-in integrations with cloud providers, databases, and third-party systems to manage their secrets effectively.</p>
+
+        <p>With Puppet and Ansible, I've implemented encrypted data bags and Ansible Vault, respectively, to secure secrets like database passwords, API tokens, and SSH keys. I've integrated HashiCorp's Vault into these configurations, providing an additional layer of security and facilitating centralized secret management.</p>
+
+        <p>As part of my Infrastructure as Code (IaC) practices, I have integrated Vault with Terraform, allowing secure provisioning and management of infrastructure by dynamically generating credentials or leveraging encryption as a service.</p>
+
+        <p>Overall, my certification and experience with Vault demonstrate my ability to ensure high security in handling sensitive data and managing secrets in a distributed and diverse environment.</p>
     - title: CI/CD
       logo: https://cdn.svgporn.com/logos/github-actions.svg
-      description: Details coming soon, contact me if you want to know more
+      description: |
+        <p>My experience in CI/CD practices spans various popular tools like GitHub Actions, Jenkins, GitLab CI, and Bitbucket Pipelines. Leveraging these platforms, I have orchestrated robust pipelines, enabling automated build, test, and deployment of applications across various environments, from development to production.</p>
+
+        <p>I've orchestrated workflows with GitHub Actions that automate software development practices from the repository. From simple unit tests and linting to complex build pipelines with matrix testing across various environments and multiple stages, I've set up a broad range of automated workflows to ensure high-quality code.</p>
+
+        <p>In Jenkins, I've used both freestyle jobs and pipelines-as-code through Jenkinsfiles, providing version-controlled, reusable, and complex pipelines. My experience extends to setting up Jenkins Masters and Agents, optimizing them for performance, and using plugins to extend Jenkins' capabilities.</p>
+
+        <p>My use of GitLab CI has involved leveraging .gitlab-ci.yml to describe the pipeline stages, the jobs within each step, and the runners executing the jobs. I've also set up GitLab runners in various configurations, and I've used the GitLab Container Registry for storing Docker images built as part of the CI/CD process.</p>
+
+        <p>With Bitbucket Pipelines, I've worked extensively with bitbucket-pipelines.yml to create efficient workflows, enabling automated continuous integration in Bitbucket Cloud.</p>
+
+        <p>Across all these platforms, I've integrated various testing suites, artifact management systems, and deployment tools. Furthermore, I've incorporated Infrastructure as Code (IaC) tools such as Terraform and Ansible into the pipelines to automate infrastructure setup and configuration.</p>
+
+        <p>In summary, I can architect and implement CI/CD pipelines that streamline software development, improve code quality, and reduce the time-to-market.</p>
     - title: OpenSource
       logo: https://cdn.svgporn.com/logos/github-octocat.svg
-      description: Details coming soon, contact me if you want to know more
+      description: |
+        <p>My extensive Open Source experience involves contributions to many projects, from simple bug fixes to implementing caching from local DNS resolvers in systemd. I constantly collaborate with the community, raise issues, and contribute to solution development.</p>
+
+        <p>I am a member of the Vox Pupuli (a group of Puppet developers) and Cyprus Developer Community. In addition, I also maintain my pet projects, which allow me to explore new areas of software development, find innovative solutions, and experiment with emerging technologies.</p>
+
+        <p>This work not only fulfills my passion for coding but also helps in my professional growth. It has been an excellent platform for me to share my knowledge, learn from peers globally, and stay updated with the latest industry trends. My contributions to the open-source community underscore my commitment to continual learning and development, as well as my ability to collaborate effectively with diverse teams.</p>
     - title: Leadership
       logo: https://cdn.svgporn.com/logos/atlassian.svg
-      description: Details coming soon, contact me if you want to know more
+      description: |
+        <p>Beyond my technical capabilities, I bring substantial leadership experience to the table. I have assumed the role of a team lead twice and served as a technical lead once, managing a team of 25 individuals.</p>
+
+        <p>These roles involved various responsibilities such as project planning, reporting, conducting 1-on-1 sessions, setting remunerations, and executing hiring processes, including interviews. Through these experiences, I have developed strong team management skills, an ability to delegate effectively, and a knack for inspiring team members to deliver their best work.</p>
+
+        <p>I understand the importance of communication and fostering a positive work environment. As a leader, I encourage open dialogue and ensure team members feel heard and valued. I'm adept at identifying individual strengths within a team and leveraging those to optimize team productivity. Additionally, I strive to maintain a clear vision and set achievable goals to align all team efforts toward a common objective.</p>
+
+        <p>Moreover, my technical expertise allows me to bridge the gap between management and technical teams, facilitating better understanding and smoother project executions. I believe that my combined technical proficiency and leadership skills uniquely position me to drive both people and projects towards success.</p>
 experience:
   enable: true
   item:
