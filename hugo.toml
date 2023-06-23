@@ -37,7 +37,7 @@ author = "Pavel Sapezhka"
 [params.footer]
 email = "me@weastur.com"
 address = "Limassol, Cyprus"
-googlemaps = ""
+wiki = "https://en.wikipedia.org/wiki/Limassol"
 
 [markup]
   [markup.highlight]
