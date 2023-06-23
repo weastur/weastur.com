@@ -114,9 +114,30 @@ experience:
 certifications:
   enable: true
   item:
-    - title: Microsoft Azure Fundamentals
-      image: https://res.cloudinary.com/samrobbins/image/upload/v1592501459/microsoft-certified-fundamentals-badge_cpcgyn.svg
-      url: https://www.youracclaim.com/badges/b4cf7a86-eb83-478e-bfd0-9f427c3474a0/public_url
+    - title: "Certified Professional in Python Programming 1"
+      image: images/pcpp-32-1xx.png
+      url: https://www.credly.com/badges/3df24eb5-2f32-49a8-a13b-70cf790a75b1/public_url
+    - title: "Certified Kubernetes Administrator"
+      image: images/cka.png
+      url: https://www.credly.com/badges/a98ae010-383a-4f23-b977-9065fff01f22/public_url
+    - title: "AWS Certified Solutions Architect"
+      image: images/aws_saa.png
+      url: https://www.credly.com/badges/de77bd29-0609-4e9f-829f-6276223b6ec8/public_url
+    - title: "HashiCorp Certified: Consul Associate"
+      image: images/hc_consul.png
+      url: https://www.credly.com/badges/8d406875-a1ee-403b-985d-68c49b600120/public_url
+    - title: "HashiCorp Certified: Vault Associate"
+      image: images/hc_vault.png
+      url: https://www.credly.com/badges/eb667b64-7aca-4622-a71a-c5f88173f73d/public_url
+    - title: "HashiCorp Certified: Terraform Associate"
+      image: images/hc_terraform.png
+      url: https://www.credly.com/badges/a8279164-2b7f-4398-bf2f-94ff39a7c05c/public_url
+    - title: "Certified Apache Cassandra Administrator "
+      image: images/cassandra.png
+      url: https://certification.mettl.com/datastax/applicant/verify-certification-with-qr?email=me%40weastur.com&assessment=Apache%20Cassandra%203%20Administrator%20Associate%20Certification&date=Mar%2003,%202021
+    - title: "Algorithms Specialization"
+      image: https://cdn.svgporn.com/logos/coursera.svg?response-content-disposition=attachment%3Bfilename%3Dcoursera.svg
+      url: https://www.coursera.org/account/accomplishments/specialization/certificate/37MPE873ZUQ3
 publications:
   enable: true
   item:
