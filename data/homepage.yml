@@ -30,19 +30,44 @@ skill:
         <p>I have considerable experience writing asynchronous code, an essential skill for creating responsive and efficient applications. Additionally, I have shared my vast knowledge by teaching Python to students.</p>
     - title: Databases
       logo: https://cdn.svgporn.com/logos/mongodb-icon.svg
-      description: test
+      description: |
+        <p>Database management is another core area of my expertise, with MongoDB as my primary technology. I also have extensive experience with MySQL, PostgreSQL, Apache Cassandra, and in-memory solutions like Redis.</p>
+
+        <p>Throughout my career, I've handled nearly all aspects of database management: deployment, debugging, configuration, optimization of configurations and queries, backup setup, replication, and sharding. My experience extends to performing migrations, both inter-version and across different database technologies.</p>
+
+        <p>I have a detailed understanding of database monitoring, including creating custom monitoring solutions. This skill lets me quickly identify and resolve potential issues, ensuring optimal database performance and minimal downtime.</p>
     - title: Message queues
       logo: https://cdn.svgporn.com/logos/kafka-icon.svg
-      description: Details coming soon, contact me if you want to know more
+      description: |
+        <p>My proficiency extends to message queuing systems, with Kafka being my primary tool. I also have valuable experience with RabbitMQ, Redis pub/sub, AWS SQS, and AWS SNS.</p>
+
+        <p>In these areas, I have handled these services' setup, debugging, scaling, monitoring, and deployment. I've also been vital in designing application architectures incorporating these systems and orchestrating load balancing. This background allows me to facilitate efficient, reliable data transfer between different components of an application, ensuring high performance and robustness.</p>
     - title: Clouds
       logo: https://cdn.svgporn.com/logos/aws.svg
-      description: Details coming soon, contact me if you want to know more
+      description: |
+        <p>As a certified architect primarily working with AWS, I have been involved in the complete project cycle: from initial architecture design to ongoing maintenance. I possess substantial experience in cloud migrations, having successfully transitioned existing projects to the cloud with zero downtime. This work requires a careful and coordinated approach to ensure minimal user impact.</p>
+
+        <p>In addition, I have demonstrated expertise in cost reduction strategies and the development of multi-region solutions, ensuring efficient use of resources and high availability of services. Automating deployment processes has been another focus of my work, enabling more efficient and reliable updates and changes to the system.</p>
+
+        <p>I also led the development of a private cloud designed to process petabyte-scale data volumes for two years in one of my previous roles. This cloud was built using Kubernetes and Ceph, with custom monitoring and management console development as part of the project. The accomplishment reflects my capability to handle large-scale, complex cloud infrastructure projects.</p>
     - title: Orchestration
       logo: https://cdn.svgporn.com/logos/kubernetes.svg
-      description: Details coming soon, contact me if you want to know more
+      description: |
+        <p>I first encountered Kubernetes in 2016, and since then, I've worked with both self-hosted and cloud-based Kubernetes on various projects. I am currently a Certified Kubernetes Administrator, accredited by The Linux Foundation.</p>
+
+        <p>In my work with Kubernetes, I've tackled many tasks, from standard updates to developing custom components such as operators and volume provisioners. I have experience maintaining stateful applications in Kubernetes, understanding that this approach may only sometimes be the best solution but can be necessary for specific contexts.</p>
+
+        <p>My expertise also includes transitioning projects to Kubernetes and assessing the necessity of such migrations. This involves carefully evaluating the project needs and the potential benefits and challenges that might come with the transition. My approach ensures that decisions are made thoroughly and in the project's best interests.</p>
     - title: Traffic management
       logo: https://cdn.svgporn.com/logos/cloudflare.svg
-      description: Details coming soon, contact me if you want to know more
+      description: |
+        <p>I have comprehensive experience with Cloudflare, which extends to various features and functionalities, including traffic balancing, DNSSEC, Web Application Firewall (WAF), DDoS protection, TLS termination, gRPC balancing, Brotli compression, page rules, and Cloudflare Pages. I also have an experience with Cloudflare Workers, understanding their potential for enhancing web application performance.</p>
+
+        <p>One of my key strengths is migrating existing projects to Cloudflare without downtime. Such transitions require a meticulous approach and a deep understanding of both the existing system and Cloudflare to ensure a seamless switchover. This expertise allows me to offer robust, secure, and high-performing solutions using Cloudflare's suite of tools and features.</p>
+
+        <p>In addition to my experience with Cloudflare, I have worked with similar products within the AWS ecosystem, such as Route 53 and CloudFront. These services have strengthened my skill set in managing DNS, CDN, and various other aspects related to content delivery and domain name systems. This breadth of experience across different platforms allows me to select and utilize the most suitable tools for each project, ensuring optimal outcomes.</p>
+
+        <p>Alongside cloud-based solutions, I am proficient in local load balancing and reverse proxy techniques. I've gained considerable experience working with tools like keepalived, NGINX, and Envoy. This has honed my skills in effectively managing and routing traffic within a network, optimizing application performance, and increasing overall system reliability. My expertise in cloud and local load balancing and proxying enables me to architect resilient and efficient solutions.</p>
     - title: Linux
       logo: https://cdn.svgporn.com/logos/linux-tux.svg
       description: Details coming soon, contact me if you want to know more
