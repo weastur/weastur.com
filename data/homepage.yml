@@ -70,22 +70,56 @@ skill:
         <p>Alongside cloud-based solutions, I am proficient in local load balancing and reverse proxy techniques. I've gained considerable experience working with tools like keepalived, NGINX, and Envoy. This has honed my skills in effectively managing and routing traffic within a network, optimizing application performance, and increasing overall system reliability. My expertise in cloud and local load balancing and proxying enables me to architect resilient and efficient solutions.</p>
     - title: Linux
       logo: https://cdn.svgporn.com/logos/linux-tux.svg
-      description: Details coming soon, contact me if you want to know more
+      description: |
+        <p>I have a solid background in Linux, having worked with various distributions such as Ubuntu, Debian, CentOS, and Alpine. I've configured large bare-metal clusters and have been responsible for full-cycle administration tasks, including network setup.</p>
+
+        <p>Deploying infrastructure for managing bare-metal systems, such as PXE boot servers or MAAS, has been part of my responsibilities. I have also been involved in kernel tuning and debugging, including driver debugging. This experience gives me a deep understanding of Linux systems' inner workings, contributing to more efficient and effective system administration.</p>
+
+        <p>I am skilled in setting up firewalls for enhanced security, scripting in bash for automation and task simplification, building packages, and maintaining internal repositories. I have also managed system updates, keeping them secure and up-to-date.</p>
+
+        <p>I have been involved in the detailed tuning of file systems, including ZFS and firmware updates for disks. Furthermore, I have handled RAID maintenance, providing redundant, reliable storage solutions for data. Additionally, I have experience with netconsole configuration, a tool essential for remote kernel debugging.</p>
+
+        <p>This wide array of skills underlines my comprehensive proficiency with Linux systems and their administration.</p>
     - title: IaC
       logo: https://cdn.svgporn.com/logos/terraform-icon.svg
-      description: Details coming soon, contact me if you want to know more
+      description: |
+        <p>Infrastructure as Code (IaC) is another area where I bring significant expertise, with Terraform as my primary tool. I've been involved in the full project cycle, from migrating existing projects and documenting current infrastructure to writing custom providers. I've also established processes, including CI/CD for Terraform, and employed various tools to maintain code quality.</p>
+
+        <p>I have experience managing huge Terraform states, an essential skill for maintaining large and complex infrastructures. Besides Terraform, I've worked with AWS CloudFormation and Pulumi. In Pulumi, I managed the transition from Terraform and orchestrated the division of infrastructure code into multiple repositories linked by stack references. This experience equips me to deliver robust, maintainable, and efficient infrastructure as code solutions.</p>
     - title: Build
       logo: https://cdn.svgporn.com/logos/docker-icon.svg
-      description: Details coming soon, contact me if you want to know more
+      description: |
+        <p>Docker has been my principal tool for application containerization, although recently, I've been using Podman more frequently. I have built various applications, ranging from simple static binaries to complex Node.js applications with numerous dependencies.</p>
+
+        <p>I have experience setting up private registries within a company, offering a secure, controlled environment for Docker images. For security reasons, I've established processes to build all company images based on custom base images. This approach minimizes the risk of vulnerabilities in the application environment.</p>
+
+        <p>One of my focus areas has been ensuring the security of Docker images, ensuring they are free from vulnerabilities and conform to best practices.</p>
+
+        <p>In addition to building Docker images, I have experience compiling deb/rpm/PyPi packages, demonstrating my proficiency in various packaging standards.</p>
     - title: Deploy
       logo: https://cdn.svgporn.com/logos/ansible.svg
-      description: Details coming soon, contact me if you want to know more
+      description: |
+        <p>Ansible has been my primary tool for deployment, with experience in everything from basic system configuration to complex tasks such as deploying clusters for databases or Kubernetes (this was back in the days before the advent of kubespray or kubeadm)</p>
+
+        <p>My expertise includes writing custom modules and filters and establishing CI/CD pipelines for Ansible. I have managed many hosts, demonstrating my ability to scale and manage intricate systems effectively. Furthermore, I have experience with dynamic inventory scripting, adding another layer of automation and flexibility to managing large systems.</p>
+
+        <p>In addition to Ansible, I bring extensive experience with Puppet, including writing custom modules in Ruby. I have also been responsible for orchestrating migrations to Ansible, further showcasing my versatility and adaptability in infrastructure management and automation.</p>
     - title: Logs
       logo: https://cdn.svgporn.com/logos/elasticsearch.svg
-      description: Details coming soon, contact me if you want to know more
+      description: |
+        <p>In log management, I've extensively used ELK (Elasticsearch, Logstash, Kibana) and Loki and have directed migration from ELK to Loki. I've maintained large ELK clusters, managed multiple terabytes of logs per day, configured log collection from applications and journald, and set up audit logging.</p>
+
+        <p>My experience extends to alerting, writing custom parsers within *beats, using ingest pipelines, and managing various index rotation policies. I have set up Access Control Lists (ACLs) for security and have worked with Application Performance Monitoring (APM) for distributed tracing.</p>
+
+        <p>Creating custom dashboards is one of my competencies, providing tailored views on the system's performance and status. I've been responsible for log parsing and tuning settings in Loki, including cost reduction on Amazon DynamoDB. I have also created custom dashboards in Grafana, ensuring appropriate access control for these dashboards. This proficiency underscores my ability to handle large-scale, complex logging infrastructure efficiently.</p>
     - title: Metrics
       logo: https://cdn.svgporn.com/logos/prometheus.svg
-      description: Details coming soon, contact me if you want to know more
+      description: |
+        <p>For metrics, I've predominantly used Prometheus and VictoriaMetrics. I've been responsible for their setup, tuning, and alerting configurations. I am proficient in forming complex queries using PromQL features such as subqueries, group modifiers, and aggregations. I've also used recording rules to create new time series.</p>
+
+        <p>My experience extends to setting up integrations with service discovery and managing long-term storage for metrics. I've set up advanced alerting systems, including complex routing and inhibit rules to ensure accurate and efficient alerts.</p>
+
+        <p>I have written around fifteen custom exporters in Python and Golang. Additionally, I've contributed to community projects, emphasizing my commitment to improving and sharing knowledge within the tech community.</p>
     - title: Visualization
       logo: https://cdn.svgporn.com/logos/grafana.svg
       description: Details coming soon, contact me if you want to know more
