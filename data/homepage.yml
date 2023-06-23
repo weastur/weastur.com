@@ -20,8 +20,64 @@ about:
 skill:
   enable: true
   item:
-    - title: JavaScript
-      logo: https://res.cloudinary.com/samrobbins/image/upload/v1591793272/logos/logos_javascript_adj1dx.svg
+    - title: Code
+      logo: https://cdn.svgporn.com/logos/python.svg
+      description: |
+        <p>Despite now I work mostly like an SRE, I am a Python developer with over 10 years of experience. I am fully certified by the Python Institute. My work transits various projects, from developing classic Django web applications to complex system programming.</p>
+
+        <p>During my career, I've taken on a variety of tasks, including profiling Python code to optimize performance and identify potential issues. My proficiency extends to writing C extensions, enhancing the efficiency of my applications. Also, I have experience in packaging the code into distributable packages, ensuring my applications can be effortlessly deployed across different platforms.</p>
+
+        <p>I have considerable experience writing asynchronous code, an essential skill for creating responsive and efficient applications. Additionally, I have shared my vast knowledge by teaching Python to students.</p>
+    - title: Databases
+      logo: https://cdn.svgporn.com/logos/mongodb-icon.svg
+      description: test
+    - title: Message queues
+      logo: https://cdn.svgporn.com/logos/kafka-icon.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: Clouds
+      logo: https://cdn.svgporn.com/logos/aws.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: Orchestration
+      logo: https://cdn.svgporn.com/logos/kubernetes.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: Traffic management
+      logo: https://cdn.svgporn.com/logos/cloudflare.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: Linux
+      logo: https://cdn.svgporn.com/logos/linux-tux.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: IaC
+      logo: https://cdn.svgporn.com/logos/terraform-icon.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: Build
+      logo: https://cdn.svgporn.com/logos/docker-icon.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: Deploy
+      logo: https://cdn.svgporn.com/logos/ansible.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: Logs
+      logo: https://cdn.svgporn.com/logos/elasticsearch.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: Metrics
+      logo: https://cdn.svgporn.com/logos/prometheus.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: Visualization
+      logo: https://cdn.svgporn.com/logos/grafana.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: Service descovery
+      logo: https://cdn.svgporn.com/logos/consul.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: Credential management
+      logo: https://cdn.svgporn.com/logos/vault-icon.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: CI/CD
+      logo: https://cdn.svgporn.com/logos/github-actions.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: OpenSource
+      logo: https://cdn.svgporn.com/logos/github-octocat.svg
+      description: Details coming soon, contact me if you want to know more
+    - title: Leadership
+      logo: https://cdn.svgporn.com/logos/atlassian.svg
       description: Details coming soon, contact me if you want to know more
 experience:
   enable: true
