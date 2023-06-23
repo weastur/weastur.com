@@ -195,10 +195,26 @@ skill:
 experience:
   enable: true
   item:
-    - logo: https://res.cloudinary.com/samrobbins/image/upload/f_auto,q_auto/v1591793271/logos/logos_google_id6v9a.svg
-      title: init.g
-      company: Google
-      duration: November 2019
+    - logo: images/synesis.png
+      title: Senior Software Engineer / Team Lead / Tech Lead
+      company: Synesis
+      url: https://synesis-group.com/
+      duration: April 2015 - June 2019
+    - logo: images/rocketdata.png
+      title: Senior Software Engineer / Team Lead
+      company: Rocketdata
+      url: https://rocketdata.io
+      duration: June 2019 - June 2020
+    - logo: images/digital_unicorn.png
+      title: Python Instructor (part-time)
+      company: Digital Unicorn
+      url: https://www.facebook.com/itunicorn.by/
+      duration: March 2020 - Jule 2021
+    - logo: images/easybrain.jpg
+      title: Senior Site Reliability Engineer
+      company: Easybrain
+      url: https://easybrain.com
+      duration: June 2020 - Now
 certifications:
   enable: true
   item:
