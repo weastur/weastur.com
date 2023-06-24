@@ -13,7 +13,7 @@ social:
   whatsapp: m6kwpg
 about:
   enable: true
-  content: Site Reliability Engineer with specialization in Python and DBMS.
+  content: SRE Specializing in Python and Databases
   button:
     btnText: Find out more
     URL: "/about"
