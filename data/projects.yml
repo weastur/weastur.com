@@ -1,3 +1,11 @@
 filter:
-  - label: Web Dev
-    value: web-dev
+  - label: DevOps
+    value: devops
+  - label: Python
+    value: python
+  - label: Web
+    value: web
+  - label: Fun
+    value: fun
+  - label: Experemental
+    value: experemental

@@ -255,7 +255,11 @@ publications:
         <p><strong>EFFECT:</strong> technical result consists in reduction of the information search resource consumption in the facet classification based video data arrays.</p>
       image: images/patent.png
       pdf_link: https://patents.s3.yandex.net/RU2660599C1_20180706.pdf
-portfolio:
+projects:
   filter:
-    - label: Web Dev
-      value: web-dev
+    - label: Web
+      value: web
+    - label: Fun
+      value: fun
+    - label: Experemental
+      value: experemental

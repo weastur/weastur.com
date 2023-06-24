@@ -1,5 +1,5 @@
 +++
-categories = ["web-dev"]
+categories = ["web", "fun"]
 coders = []
 date = 2020-06-19T23:00:00Z
 description = "A portfolio website made with Hugo"
