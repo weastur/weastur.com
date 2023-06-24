@@ -21,7 +21,7 @@ skill:
   enable: true
   item:
     - title: Code
-      logo: https://cdn.svgporn.com/logos/python.svg
+      logo: images/python.svg
       description: |
         <p>Despite now I work mostly like an SRE, I am a Python developer with over 10 years of experience. I am fully certified by the Python Institute. My work transits various projects, from developing classic Django web applications to complex system programming.</p>
 
@@ -29,7 +29,7 @@ skill:
 
         <p>I have considerable experience writing asynchronous code, an essential skill for creating responsive and efficient applications. Additionally, I have shared my vast knowledge by teaching Python to students.</p>
     - title: Databases
-      logo: https://cdn.svgporn.com/logos/mongodb-icon.svg
+      logo: images/mongodb.svg
       description: |
         <p>Database management is another core area of my expertise, with MongoDB as my primary technology. I also have extensive experience with MySQL, PostgreSQL, Apache Cassandra, and in-memory solutions like Redis.</p>
 
@@ -37,13 +37,13 @@ skill:
 
         <p>I have a detailed understanding of database monitoring, including creating custom monitoring solutions. This skill lets me quickly identify and resolve potential issues, ensuring optimal database performance and minimal downtime.</p>
     - title: Message queues
-      logo: https://cdn.svgporn.com/logos/kafka-icon.svg
+      logo: images/kafka.svg
       description: |
         <p>My proficiency extends to message queuing systems, with Kafka being my primary tool. I also have valuable experience with RabbitMQ, Redis pub/sub, AWS SQS, and AWS SNS.</p>
 
         <p>In these areas, I have handled these services' setup, debugging, scaling, monitoring, and deployment. I've also been vital in designing application architectures incorporating these systems and orchestrating load balancing. This background allows me to facilitate efficient, reliable data transfer between different components of an application, ensuring high performance and robustness.</p>
     - title: Clouds
-      logo: https://cdn.svgporn.com/logos/aws.svg
+      logo: images/aws.svg
       description: |
         <p>As a certified architect primarily working with AWS, I have been involved in the complete project cycle: from initial architecture design to ongoing maintenance. I possess substantial experience in cloud migrations, having successfully transitioned existing projects to the cloud with zero downtime. This work requires a careful and coordinated approach to ensure minimal user impact.</p>
 
@@ -51,7 +51,7 @@ skill:
 
         <p>I also led the development of a private cloud designed to process petabyte-scale data volumes for two years in one of my previous roles. This cloud was built using Kubernetes and Ceph, with custom monitoring and management console development as part of the project. The accomplishment reflects my capability to handle large-scale, complex cloud infrastructure projects.</p>
     - title: Orchestration
-      logo: https://cdn.svgporn.com/logos/kubernetes.svg
+      logo: images/kubernetes.svg
       description: |
         <p>I first encountered Kubernetes in 2016, and since then, I've worked with both self-hosted and cloud-based Kubernetes on various projects. I am currently a Certified Kubernetes Administrator, accredited by The Linux Foundation.</p>
 
@@ -59,7 +59,7 @@ skill:
 
         <p>My expertise also includes transitioning projects to Kubernetes and assessing the necessity of such migrations. This involves carefully evaluating the project needs and the potential benefits and challenges that might come with the transition. My approach ensures that decisions are made thoroughly and in the project's best interests.</p>
     - title: Traffic management
-      logo: https://cdn.svgporn.com/logos/cloudflare.svg
+      logo: images/cloudflare.svg
       description: |
         <p>I have comprehensive experience with Cloudflare, which extends to various features and functionalities, including traffic balancing, DNSSEC, Web Application Firewall (WAF), DDoS protection, TLS termination, gRPC balancing, Brotli compression, page rules, and Cloudflare Pages. I also have an experience with Cloudflare Workers, understanding their potential for enhancing web application performance.</p>
 
@@ -69,7 +69,7 @@ skill:
 
         <p>Alongside cloud-based solutions, I am proficient in local load balancing and reverse proxy techniques. I've gained considerable experience working with tools like keepalived, NGINX, and Envoy. This has honed my skills in effectively managing and routing traffic within a network, optimizing application performance, and increasing overall system reliability. My expertise in cloud and local load balancing and proxying enables me to architect resilient and efficient solutions.</p>
     - title: Linux
-      logo: https://cdn.svgporn.com/logos/linux-tux.svg
+      logo: images/linux.svg
       description: |
         <p>I have a solid background in Linux, having worked with various distributions such as Ubuntu, Debian, CentOS, and Alpine. I've configured large bare-metal clusters and have been responsible for full-cycle administration tasks, including network setup.</p>
 
@@ -81,13 +81,13 @@ skill:
 
         <p>This wide array of skills underlines my comprehensive proficiency with Linux systems and their administration.</p>
     - title: IaC
-      logo: https://cdn.svgporn.com/logos/terraform-icon.svg
+      logo: images/terraform.svg
       description: |
         <p>Infrastructure as Code (IaC) is another area where I bring significant expertise, with Terraform as my primary tool. I've been involved in the full project cycle, from migrating existing projects and documenting current infrastructure to writing custom providers. I've also established processes, including CI/CD for Terraform, and employed various tools to maintain code quality.</p>
 
         <p>I have experience managing huge Terraform states, an essential skill for maintaining large and complex infrastructures. Besides Terraform, I've worked with AWS CloudFormation and Pulumi. In Pulumi, I managed the transition from Terraform and orchestrated the division of infrastructure code into multiple repositories linked by stack references. This experience equips me to deliver robust, maintainable, and efficient infrastructure as code solutions.</p>
     - title: Build
-      logo: https://cdn.svgporn.com/logos/docker-icon.svg
+      logo: images/docker.svg
       description: |
         <p>Docker has been my principal tool for application containerization, although recently, I've been using Podman more frequently. I have built various applications, ranging from simple static binaries to complex Node.js applications with numerous dependencies.</p>
 
@@ -97,7 +97,7 @@ skill:
 
         <p>In addition to building Docker images, I have experience compiling deb/rpm/PyPi packages, demonstrating my proficiency in various packaging standards.</p>
     - title: Deploy
-      logo: https://cdn.svgporn.com/logos/ansible.svg
+      logo: images/ansible.svg
       description: |
         <p>Ansible has been my primary tool for deployment, with experience in everything from basic system configuration to complex tasks such as deploying clusters for databases or Kubernetes (this was back in the days before the advent of kubespray or kubeadm)</p>
 
@@ -105,7 +105,7 @@ skill:
 
         <p>In addition to Ansible, I bring extensive experience with Puppet, including writing custom modules in Ruby. I have also been responsible for orchestrating migrations to Ansible, further showcasing my versatility and adaptability in infrastructure management and automation.</p>
     - title: Logs
-      logo: https://cdn.svgporn.com/logos/elasticsearch.svg
+      logo: images/elasticsearch.svg
       description: |
         <p>In log management, I've extensively used ELK (Elasticsearch, Logstash, Kibana) and Loki and have directed migration from ELK to Loki. I've maintained large ELK clusters, managed multiple terabytes of logs per day, configured log collection from applications and journald, and set up audit logging.</p>
 
@@ -113,7 +113,7 @@ skill:
 
         <p>Creating custom dashboards is one of my competencies, providing tailored views on the system's performance and status. I've been responsible for log parsing and tuning settings in Loki, including cost reduction on Amazon DynamoDB. I have also created custom dashboards in Grafana, ensuring appropriate access control for these dashboards. This proficiency underscores my ability to handle large-scale, complex logging infrastructure efficiently.</p>
     - title: Metrics
-      logo: https://cdn.svgporn.com/logos/prometheus.svg
+      logo: images/prometheus.svg
       description: |
         <p>For metrics, I've predominantly used Prometheus and VictoriaMetrics. I've been responsible for their setup, tuning, and alerting configurations. I am proficient in forming complex queries using PromQL features such as subqueries, group modifiers, and aggregations. I've also used recording rules to create new time series.</p>
 
@@ -121,7 +121,7 @@ skill:
 
         <p>I have written around fifteen custom exporters in Python and Golang. Additionally, I've contributed to community projects, emphasizing my commitment to improving and sharing knowledge within the tech community.</p>
     - title: Visualization
-      logo: https://cdn.svgporn.com/logos/grafana.svg
+      logo: images/grafana.svg
       description: |
         <p>I have extensively used Grafana for visualization, carrying out the entire setup cycle, configuration, and support. In addition to creating and managing backups, I've managed Grafana through Terraform, providing an Infrastructure as Code (IaC) approach to visualization management.</p>
 
@@ -129,7 +129,7 @@ skill:
 
         <p>Beyond Grafana, I've used Kibana from the ELK stack for visualization, creating custom dashboards as needed. This experience demonstrates my ability to adapt to different visualization tools and make insightful, comprehensive visual representations of data.</p>
     - title: Service descovery
-      logo: https://cdn.svgporn.com/logos/consul.svg
+      logo: images/consul.svg
       description: |
         <p>My expertise with Consul extends to implementing secure access controls, managing the cluster's health, and facilitating seamless service-to-service communication. I have handled various use cases ranging from small-scale local developments to large-scale production environments with hundreds of services, demonstrating my versatility in diverse setups.</p>
 
@@ -141,7 +141,7 @@ skill:
 
         <p>Overall, my extensive experience with service discovery tools like Consul and etcd demonstrates my understanding of modern distributed systems and my ability to manage and optimize these systems effectively.</p>
     - title: Credential management
-      logo: https://cdn.svgporn.com/logos/vault-icon.svg
+      logo: images/vault.svg
       description: |
         <p>As a HashiCorp Certified Vault Associate, I understand Vault's architecture and features comprehensively, allowing me to manage secrets and protect sensitive data in different environments effectively.</p>
 
@@ -159,7 +159,7 @@ skill:
 
         <p>Overall, my certification and experience with Vault demonstrate my ability to ensure high security in handling sensitive data and managing secrets in a distributed and diverse environment.</p>
     - title: CI/CD
-      logo: https://cdn.svgporn.com/logos/github-actions.svg
+      logo: images/github-actions.svg
       description: |
         <p>My experience in CI/CD practices spans various popular tools like GitHub Actions, Jenkins, GitLab CI, and Bitbucket Pipelines. Leveraging these platforms, I have orchestrated robust pipelines, enabling automated build, test, and deployment of applications across various environments, from development to production.</p>
 
@@ -175,7 +175,7 @@ skill:
 
         <p>In summary, I can architect and implement CI/CD pipelines that streamline software development, improve code quality, and reduce the time-to-market.</p>
     - title: OpenSource
-      logo: https://cdn.svgporn.com/logos/github-octocat.svg
+      logo: images/github.svg
       description: |
         <p>My extensive Open Source experience involves contributions to many projects, from simple bug fixes to implementing caching from local DNS resolvers in systemd. I constantly collaborate with the community, raise issues, and contribute to solution development.</p>
 
@@ -183,7 +183,7 @@ skill:
 
         <p>This work not only fulfills my passion for coding but also helps in my professional growth. It has been an excellent platform for me to share my knowledge, learn from peers globally, and stay updated with the latest industry trends. My contributions to the open-source community underscore my commitment to continual learning and development, as well as my ability to collaborate effectively with diverse teams.</p>
     - title: Leadership
-      logo: https://cdn.svgporn.com/logos/atlassian.svg
+      logo: images/atlassian.svg
       description: |
         <p>Beyond my technical capabilities, I bring substantial leadership experience to the table. I have assumed the role of a team lead twice and served as a technical lead once, managing a team of 25 individuals.</p>
 
