@@ -9,3 +9,5 @@ filter:
     value: fun
   - label: Experemental
     value: experemental
+  - label: Archive
+    value: archive
