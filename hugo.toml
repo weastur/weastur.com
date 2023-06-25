@@ -33,6 +33,7 @@ name = "Pavel Sapezhka"
 home = "Home"
 description = "Pavel Sapezhka - experienced, certified professional SRE, database architect and Python Developer"
 author = "Pavel Sapezhka"
+keywords = ["weastur", "sapezhka", "sapezhko", "sre", "database", "python", "cloud"]
 
 [params.footer]
 email = "me@weastur.com"

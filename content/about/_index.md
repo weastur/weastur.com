@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2023-06-23
-description: "Pavel Sapezhka - experienced, certified professional SRE and Python Developer"
+description: "Pavel Sapezhka - experienced, certified professional SRE, database architect and Python Developer"
 author : "Pavel Sapezhka"
 authorImage : "images/profile.jpeg"
 ---
