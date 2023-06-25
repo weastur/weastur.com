@@ -15,6 +15,7 @@
   {{ hugo.Generator }}
 
   {{ template "_internal/opengraph.html" . }}
+  {{ template "_internal/twitter_cards.html" . }}
 
   {{ "<!-- plugins -->" | safeHTML }}
   {{ range .Site.Params.plugins.css }}
