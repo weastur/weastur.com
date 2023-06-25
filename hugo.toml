@@ -1,6 +1,6 @@
 baseURL = 'https://weastur.com/'
 languageCode = 'en-us'
-title = 'Pavel Sapezhka'
+title = 'Pavel Sapezhka - SRE | Python | Databases'
 theme="hugo-developer-portfolio"
 googleAnalytics = ""
 enableGitInfo = true
