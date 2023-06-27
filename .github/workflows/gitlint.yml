@@ -3,8 +3,13 @@ on: [push, pull_request]
 jobs:
   checks:
     runs-on: "ubuntu-latest"
-    if: github.event_name != 'push' || github.event.before != '0000000000000000000000000000000000000000'
+      #if: github.event_name == 'pull_request' || (github.event.before != '0000000000000000000000000000000000000000' && needs.pr-check.outputs.number)
     steps:
+      - name: Debug print
+        run: echo "github.event.before ${{github.event.before}}"
+      - name: Debug print
+        run: echo "checks ${{needs.pr-check.outputs.number}}"
+        if: needs.pr-check.outputs.number
       - uses: actions/checkout@v3
         with:
           fetch-depth: 0
