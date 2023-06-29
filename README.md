@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![Build with Hugo](https://github.com/weastur/weastur.com/workflows/Build%20with%20Hugo/badge.svg)
 ![gitlint](https://github.com/weastur/weastur.com/workflows/gitlint/badge.svg)
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/weastur/weastur.com/master.svg)](https://results.pre-commit.ci/latest/github/weastur/weastur.com/master)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/weastur/weastur.com/main.svg)](https://results.pre-commit.ci/latest/github/weastur/weastur.com/main)
 
 Personal developer portfolio.
 
