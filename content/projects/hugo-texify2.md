@@ -25,8 +25,6 @@ url = "https://katex.org/"
 A minimal, latex-style hugo theme for personal blogging.
 The successor of the original [TeXify](https://github.com/queensferryme/hugo-theme-texify)
 
-<iframe src="https://ghbtns.com/github-btn.html?user=weastur&repo=hugo-texify2&type=star&count=false&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
-
 ## Features
 
 - **Social sharing buttons**
