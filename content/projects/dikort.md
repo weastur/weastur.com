@@ -1,7 +1,7 @@
 +++
-categories = ["archive"]
+categories = ["python", "archive"]
 coders = []
-date = 2023-06-27
+date = 2022-04-22
 description = "git commit message format checking tool"
 github = ["https://github.com/weastur/dikort"]
 title = "dikort"
