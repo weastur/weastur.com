@@ -16,6 +16,8 @@ Personal developer portfolio.
 
 ## Development
 
+Install hugo.
+
 ```bash
 hugo server
 ```
