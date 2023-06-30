@@ -35,6 +35,7 @@ description = "Pavel Sapezhka - experienced, certified professional SRE, databas
 author = "Pavel Sapezhka"
 images = ["images/logo.jpg"]
 keywords = ["weastur", "sapezhka", "sapezhko", "sre", "database", "python", "cloud"]
+blogURL = "https://blog.weastur.com"
 
 [params.footer]
 email = "me@weastur.com"

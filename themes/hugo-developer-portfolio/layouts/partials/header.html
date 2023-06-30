@@ -24,6 +24,9 @@
                 <li><a style="font-size: 18px; text-transform: none" href="{{ .URL | relURL }}">{{.Name}}</a></li>
                 {{end}}
                 {{end}}
+                {{if .Site.Params.blogURL }}
+                <li><a style="font-size: 18px; text-transform: none" target="_blank" href="{{ .Site.Params.blogURL}}">Blog</a></li>
+                {{end}}
             </ul>
 
             <a class="uk-navbar-toggle uk-hidden@s" uk-toggle="target: #sidenav" uk-navbar-toggle-icon href="#"></a>
