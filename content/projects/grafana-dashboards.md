@@ -2,6 +2,7 @@
 categories = ["devops"]
 coders = []
 date = 2021-04-15
+keywords = ["grafana", "dashboard", "metrics", "visualization", "prometheus"]
 description = "Set of useful Grafana dashboards"
 github = ["https://github.com/weastur/grafana-dashboards"]
 title = "Grafana dashboards"

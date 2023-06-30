@@ -1,6 +1,7 @@
 +++
 categories = ["devops", "archive"]
 coders = []
+keywords = ["docker", "linter", "ci", "cd"]
 date = 2022-07-16
 description = "Docker image with useful linters"
 github = ["https://github.com/weastur/metalinter"]

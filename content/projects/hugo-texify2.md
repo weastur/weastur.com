@@ -2,6 +2,7 @@
 categories = ["web"]
 coders = []
 date = 2023-06-28
+keywords = ["hugo", "texify", "texify2", "latex", "hugo-theme", "hugo", "theme"]
 description = "A minimal, latex-style hugo theme for personal blogging"
 github = ["https://github.com/weastur/hugo-texify2"]
 site = "https://texify2.io"

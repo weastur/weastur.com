@@ -1,6 +1,7 @@
 +++
 categories = ["python", "archive"]
 coders = []
+keywords = ["git", "commit", "lint", "ci", "cd"]
 date = 2022-04-22
 description = "git commit message format checking tool"
 github = ["https://github.com/weastur/dikort"]

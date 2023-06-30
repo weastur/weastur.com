@@ -2,7 +2,8 @@
 categories = ["devops"]
 coders = []
 date = 2023-06-30
-description = "Docker image with useful linters"
+keywords = ["docker", "debian", "packaging"]
+description = "Python for Debian GNU/Linux"
 github = ["https://github.com/weastur/python-debian"]
 title = "Python for Debian GNU/Linux"
 type = "post"

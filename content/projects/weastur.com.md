@@ -2,6 +2,7 @@
 categories = ["web"]
 coders = []
 date = 2023-06-28
+keywords = ["hugo", "portfolio"]
 description = "Personal developer portfolio"
 github = ["https://github.com/weastur/weastur.com"]
 site = "https://weastur.com"
