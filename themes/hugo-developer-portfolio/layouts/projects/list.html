@@ -23,6 +23,7 @@
         <li data-tags="{{delimit .Params.categories  ' '}}">
           <div class="uk-card uk-card-default" style="position: relative;">
             <div class="fixy">
+              {{ if .Params.Image }}
               <div class="uk-card-media-top">
                 <img
                   class="contain experience"
@@ -30,6 +31,7 @@
                   alt=""
                 />
               </div>
+              {{ end }}
               <div class="uk-card-body">
                 <h3 class="uk-card-title">{{.Title}}</h3>
                 <p>{{.Params.Description}}</p>
