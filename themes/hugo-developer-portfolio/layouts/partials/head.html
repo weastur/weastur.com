@@ -8,7 +8,7 @@
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
   <meta name="author" content="{{ with .Site.Author.name }}{{ . }}{{ else }}{{ with .Site.Params.author }}{{ . }}{{ end }}{{ end }}">
   {{ if .Keywords }}
-  <meta name="keywords" content="{{ delimit .Keywords " " }}">
+  <meta name="keywords" content="{{ delimit .Keywords " " }} {{ delimit .Site.Params.keywords " " }}">
   {{ else }}
   <meta name="keywords" content="{{ delimit .Site.Params.keywords " " }}">
   {{ end }}
