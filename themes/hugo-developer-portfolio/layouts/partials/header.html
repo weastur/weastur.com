@@ -59,6 +59,9 @@
             <li><a style="font-size: 18px" href="{{ .URL | relURL }}">{{.Name}}</a></li>
             {{end}}
             {{end}}
+            {{if .Site.Params.blogURL }}
+            <li><a style="font-size: 18px;" target="_blank" href="{{ .Site.Params.blogURL}}">Blog</a></li>
+            {{end}}
         </ul>
 
     </div>
