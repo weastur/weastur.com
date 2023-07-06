@@ -23,175 +23,379 @@ skill:
     - title: Code
       logo: images/python.svg
       description: |
-        <p>Despite now I work mostly like an SRE, I am a Python developer with over 10 years of experience. I am fully certified by the Python Institute. My work transits various projects, from developing classic Django web applications to complex system programming.</p>
+        <p>Despite now I work mostly like an SRE, I am a Python developer with over 10 years
+        of experience. I am fully certified by the Python Institute. My work transits various
+        projects, from developing classic Django web applications to complex system
+        programming.</p>
 
-        <p>During my career, I've taken on a variety of tasks, including profiling Python code to optimize performance and identify potential issues. My proficiency extends to writing C extensions, enhancing the efficiency of my applications. Also, I have experience in packaging the code into distributable packages, ensuring my applications can be effortlessly deployed across different platforms.</p>
+        <p>During my career, I've taken on a variety of tasks, including profiling Python
+        code to optimize performance and identify potential issues. My proficiency extends
+        to writing C extensions, enhancing the efficiency of my applications. Also, I have
+        experience in packaging the code into distributable packages, ensuring my
+        applications can be effortlessly deployed across different platforms.</p>
 
-        <p>I have considerable experience writing asynchronous code, an essential skill for creating responsive and efficient applications. Additionally, I have shared my vast knowledge by teaching Python to students.</p>
+        <p>I have considerable experience writing asynchronous code, an essential skill for
+        creating responsive and efficient applications. Additionally, I have shared my vast
+        knowledge by teaching Python to students.</p>
     - title: Databases
       logo: images/mongodb.svg
       description: |
-        <p>Database management is another core area of my expertise, with MongoDB as my primary technology. I also have extensive experience with MySQL, PostgreSQL, Apache Cassandra, and in-memory solutions like Redis.</p>
+        <p>Database management is another core area of my expertise, with MongoDB as my
+        primary technology. I also have extensive experience with MySQL, PostgreSQL, Apache
+        Cassandra, and in-memory solutions like Redis.</p>
 
-        <p>Throughout my career, I've handled nearly all aspects of database management: deployment, debugging, configuration, optimization of configurations and queries, backup setup, replication, and sharding. My experience extends to performing migrations, both inter-version and across different database technologies.</p>
+        <p>Throughout my career, I've handled nearly all aspects of database management:
+        deployment, debugging, configuration, optimization of configurations and queries,
+        backup setup, replication, and sharding. My experience extends to performing
+        migrations, both inter-version and across different database technologies.</p>
 
-        <p>I have a detailed understanding of database monitoring, including creating custom monitoring solutions. This skill lets me quickly identify and resolve potential issues, ensuring optimal database performance and minimal downtime.</p>
+        <p>I have a detailed understanding of database monitoring, including creating
+        custom monitoring solutions. This skill lets me quickly identify and resolve
+        potential issues, ensuring optimal database performance and minimal downtime.</p>
     - title: Message queues
       logo: images/kafka.svg
       description: |
-        <p>My proficiency extends to message queuing systems, with Kafka being my primary tool. I also have valuable experience with RabbitMQ, Redis pub/sub, AWS SQS, and AWS SNS.</p>
+        <p>My proficiency extends to message queuing systems, with Kafka being my primary
+        tool. I also have valuable experience with RabbitMQ, Redis pub/sub, AWS SQS, and
+        AWS SNS.</p>
 
-        <p>In these areas, I have handled these services' setup, debugging, scaling, monitoring, and deployment. I've also been vital in designing application architectures incorporating these systems and orchestrating load balancing. This background allows me to facilitate efficient, reliable data transfer between different components of an application, ensuring high performance and robustness.</p>
+        <p>In these areas, I have handled these services' setup, debugging, scaling,
+        monitoring, and deployment. I've also been vital in designing application architectures
+        incorporating these systems and orchestrating load balancing. This background
+        allows me to facilitate efficient, reliable data transfer between different
+        components of an application, ensuring high performance and robustness.</p>
     - title: Clouds
       logo: images/aws.svg
       description: |
-        <p>As a certified architect primarily working with AWS, I have been involved in the complete project cycle: from initial architecture design to ongoing maintenance. I possess substantial experience in cloud migrations, having successfully transitioned existing projects to the cloud with zero downtime. This work requires a careful and coordinated approach to ensure minimal user impact.</p>
+        <p>As a certified architect primarily working with AWS, I have been involved in the
+        complete project cycle: from initial architecture design to ongoing maintenance.
+        I possess substantial experience in cloud migrations, having successfully
+        transitioned existing projects to the cloud with zero downtime. This work requires
+        a careful and coordinated approach to ensure minimal user impact.</p>
 
-        <p>In addition, I have demonstrated expertise in cost reduction strategies and the development of multi-region solutions, ensuring efficient use of resources and high availability of services. Automating deployment processes has been another focus of my work, enabling more efficient and reliable updates and changes to the system.</p>
+        <p>In addition, I have demonstrated expertise in cost reduction strategies and the
+        development of multi-region solutions, ensuring efficient use of resources and high
+        availability of services. Automating deployment processes has been another focus of
+        my work, enabling more efficient and reliable updates and changes to the system.</p>
 
-        <p>I also led the development of a private cloud designed to process petabyte-scale data volumes for two years in one of my previous roles. This cloud was built using Kubernetes and Ceph, with custom monitoring and management console development as part of the project. The accomplishment reflects my capability to handle large-scale, complex cloud infrastructure projects.</p>
+        <p>I also led the development of a private cloud designed to process petabyte-scale
+        data volumes for two years in one of my previous roles. This cloud was built using
+        Kubernetes and Ceph, with custom monitoring and management console development as
+        part of the project. The accomplishment reflects my capability to handle large-scale,
+        complex cloud infrastructure projects.</p>
     - title: Orchestration
       logo: images/kubernetes.svg
       description: |
-        <p>I first encountered Kubernetes in 2016, and since then, I've worked with both self-hosted and cloud-based Kubernetes on various projects. I am currently a Certified Kubernetes Administrator, accredited by The Linux Foundation.</p>
+        <p>I first encountered Kubernetes in 2016, and since then, I've worked with both
+        self-hosted and cloud-based Kubernetes on various projects. I am currently a
+        Certified Kubernetes Administrator, accredited by The Linux Foundation.</p>
 
-        <p>In my work with Kubernetes, I've tackled many tasks, from standard updates to developing custom components such as operators and volume provisioners. I have experience maintaining stateful applications in Kubernetes, understanding that this approach may only sometimes be the best solution but can be necessary for specific contexts.</p>
+        <p>In my work with Kubernetes, I've tackled many tasks, from standard updates to
+        developing custom components such as operators and volume provisioners. I have
+        experience maintaining stateful applications in Kubernetes, understanding that this
+        approach may only sometimes be the best solution but can be necessary for specific
+        contexts.</p>
 
-        <p>My expertise also includes transitioning projects to Kubernetes and assessing the necessity of such migrations. This involves carefully evaluating the project needs and the potential benefits and challenges that might come with the transition. My approach ensures that decisions are made thoroughly and in the project's best interests.</p>
+        <p>My expertise also includes transitioning projects to Kubernetes and assessing the
+        necessity of such migrations. This involves carefully evaluating the project needs
+        and the potential benefits and challenges that might come with the transition. My approach
+        ensures that decisions are made thoroughly and in the project's best interests.</p>
     - title: Traffic management
       logo: images/cloudflare.svg
       description: |
-        <p>I have comprehensive experience with Cloudflare, which extends to various features and functionalities, including traffic balancing, DNSSEC, Web Application Firewall (WAF), DDoS protection, TLS termination, gRPC balancing, Brotli compression, page rules, and Cloudflare Pages. I also have an experience with Cloudflare Workers, understanding their potential for enhancing web application performance.</p>
+        <p>I have comprehensive experience with Cloudflare, which extends to various
+        features and functionalities, including traffic balancing, DNSSEC, Web Application
+        Firewall (WAF), DDoS protection, TLS termination, gRPC balancing, Brotli compression,
+        page rules, and Cloudflare Pages. I also have an experience with Cloudflare Workers,
+        understanding their potential for enhancing web application performance.</p>
 
-        <p>One of my key strengths is migrating existing projects to Cloudflare without downtime. Such transitions require a meticulous approach and a deep understanding of both the existing system and Cloudflare to ensure a seamless switchover. This expertise allows me to offer robust, secure, and high-performing solutions using Cloudflare's suite of tools and features.</p>
+        <p>One of my key strengths is migrating existing projects to Cloudflare without
+        downtime. Such transitions require a meticulous approach and a deep understanding of
+        both the existing system and Cloudflare to ensure a seamless switchover. This
+        expertise allows me to offer robust, secure, and high-performing solutions using
+        Cloudflare's suite of tools and features.</p>
 
-        <p>In addition to my experience with Cloudflare, I have worked with similar products within the AWS ecosystem, such as Route 53 and CloudFront. These services have strengthened my skill set in managing DNS, CDN, and various other aspects related to content delivery and domain name systems. This breadth of experience across different platforms allows me to select and utilize the most suitable tools for each project, ensuring optimal outcomes.</p>
+        <p>In addition to my experience with Cloudflare, I have worked with similar products
+        within the AWS ecosystem, such as Route 53 and CloudFront. These services have
+        strengthened my skill set in managing DNS, CDN, and various other aspects related to
+        content delivery and domain name systems. This breadth of experience across different
+        platforms allows me to select and utilize the most suitable tools for each project,
+        ensuring optimal outcomes.</p>
 
-        <p>Alongside cloud-based solutions, I am proficient in local load balancing and reverse proxy techniques. I've gained considerable experience working with tools like keepalived, NGINX, and Envoy. This has honed my skills in effectively managing and routing traffic within a network, optimizing application performance, and increasing overall system reliability. My expertise in cloud and local load balancing and proxying enables me to architect resilient and efficient solutions.</p>
+        <p>Alongside cloud-based solutions, I am proficient in local load balancing and
+        reverse proxy techniques. I've gained considerable experience working with tools like
+        keepalived, NGINX, and Envoy. This has honed my skills in effectively managing and
+        routing traffic within a network, optimizing application performance, and increasing
+        overall system reliability. My expertise in cloud and local load balancing and
+        proxying enables me to architect resilient and efficient solutions.</p>
     - title: Linux
       logo: images/linux.svg
       description: |
-        <p>I have a solid background in Linux, having worked with various distributions such as Ubuntu, Debian, CentOS, and Alpine. I've configured large bare-metal clusters and have been responsible for full-cycle administration tasks, including network setup.</p>
+        <p>I have a solid background in Linux, having worked with various distributions such
+        as Ubuntu, Debian, CentOS, and Alpine. I've configured large bare-metal clusters and
+        have been responsible for full-cycle administration tasks, including network setup.</p>
 
-        <p>Deploying infrastructure for managing bare-metal systems, such as PXE boot servers or MAAS, has been part of my responsibilities. I have also been involved in kernel tuning and debugging, including driver debugging. This experience gives me a deep understanding of Linux systems' inner workings, contributing to more efficient and effective system administration.</p>
+        <p>Deploying infrastructure for managing bare-metal systems, such as PXE boot servers
+        or MAAS, has been part of my responsibilities. I have also been involved in kernel
+        tuning and debugging, including driver debugging. This experience gives me a deep
+        understanding of Linux systems' inner workings, contributing to more efficient and
+        effective system administration.</p>
 
-        <p>I am skilled in setting up firewalls for enhanced security, scripting in bash for automation and task simplification, building packages, and maintaining internal repositories. I have also managed system updates, keeping them secure and up-to-date.</p>
+        <p>I am skilled in setting up firewalls for enhanced security, scripting in bash for
+        automation and task simplification, building packages, and maintaining internal
+        repositories. I have also managed system updates, keeping them secure and up-to-date.</p>
 
-        <p>I have been involved in the detailed tuning of file systems, including ZFS and firmware updates for disks. Furthermore, I have handled RAID maintenance, providing redundant, reliable storage solutions for data. Additionally, I have experience with netconsole configuration, a tool essential for remote kernel debugging.</p>
+        <p>I have been involved in the detailed tuning of file systems, including ZFS and
+        firmware updates for disks. Furthermore, I have handled RAID maintenance, providing
+        redundant, reliable storage solutions for data. Additionally, I have experience with
+        netconsole configuration, a tool essential for remote kernel debugging.</p>
 
-        <p>This wide array of skills underlines my comprehensive proficiency with Linux systems and their administration.</p>
+        <p>This wide array of skills underlines my comprehensive proficiency with Linux
+        systems and their administration.</p>
     - title: IaC
       logo: images/terraform.svg
       description: |
-        <p>Infrastructure as Code (IaC) is another area where I bring significant expertise, with Terraform as my primary tool. I've been involved in the full project cycle, from migrating existing projects and documenting current infrastructure to writing custom providers. I've also established processes, including CI/CD for Terraform, and employed various tools to maintain code quality.</p>
+        <p>Infrastructure as Code (IaC) is another area where I bring significant expertise,
+        with Terraform as my primary tool. I've been involved in the full project cycle,
+        from migrating existing projects and documenting current infrastructure to writing
+        custom providers. I've also established processes, including CI/CD for Terraform,
+        and employed various tools to maintain code quality.</p>
 
-        <p>I have experience managing huge Terraform states, an essential skill for maintaining large and complex infrastructures. Besides Terraform, I've worked with AWS CloudFormation and Pulumi. In Pulumi, I managed the transition from Terraform and orchestrated the division of infrastructure code into multiple repositories linked by stack references. This experience equips me to deliver robust, maintainable, and efficient infrastructure as code solutions.</p>
+        <p>I have experience managing huge Terraform states, an essential skill for
+        maintaining large and complex infrastructures. Besides Terraform, I've worked with
+        AWS CloudFormation and Pulumi. In Pulumi, I managed the transition from Terraform
+        and orchestrated the division of infrastructure code into multiple repositories
+        linked by stack references. This experience equips me to deliver robust,
+        maintainable, and efficient infrastructure as code solutions.</p>
     - title: Build
       logo: images/docker.svg
       description: |
-        <p>Docker has been my principal tool for application containerization, although recently, I've been using Podman more frequently. I have built various applications, ranging from simple static binaries to complex Node.js applications with numerous dependencies.</p>
+        <p>Docker has been my principal tool for application containerization, although
+        recently, I've been using Podman more frequently. I have built various applications,
+        ranging from simple static binaries to complex Node.js applications with numerous
+        dependencies.</p>
 
-        <p>I have experience setting up private registries within a company, offering a secure, controlled environment for Docker images. For security reasons, I've established processes to build all company images based on custom base images. This approach minimizes the risk of vulnerabilities in the application environment.</p>
+        <p>I have experience setting up private registries within a company, offering a
+        secure, controlled environment for Docker images. For security reasons, I've
+        established processes to build all company images based on custom base images. This
+        approach minimizes the risk of vulnerabilities in the application environment.</p>
 
-        <p>One of my focus areas has been ensuring the security of Docker images, ensuring they are free from vulnerabilities and conform to best practices.</p>
+        <p>One of my focus areas has been ensuring the security of Docker images, ensuring
+        they are free from vulnerabilities and conform to best practices.</p>
 
-        <p>In addition to building Docker images, I have experience compiling deb/rpm/PyPi packages, demonstrating my proficiency in various packaging standards.</p>
+        <p>In addition to building Docker images, I have experience compiling deb/rpm/PyPi
+        packages, demonstrating my proficiency in various packaging standards.</p>
     - title: Deploy
       logo: images/ansible.svg
       description: |
-        <p>Ansible has been my primary tool for deployment, with experience in everything from basic system configuration to complex tasks such as deploying clusters for databases or Kubernetes (this was back in the days before the advent of kubespray or kubeadm)</p>
+        <p>Ansible has been my primary tool for deployment, with experience in
+        everything from basic system configuration to complex tasks such as deploying clusters
+        for databases or Kubernetes (this was back in the days before the advent of kubespray
+        or kubeadm)</p>
 
-        <p>My expertise includes writing custom modules and filters and establishing CI/CD pipelines for Ansible. I have managed many hosts, demonstrating my ability to scale and manage intricate systems effectively. Furthermore, I have experience with dynamic inventory scripting, adding another layer of automation and flexibility to managing large systems.</p>
+        <p>My expertise includes writing custom modules and filters and establishing CI/CD
+        pipelines for Ansible. I have managed many hosts, demonstrating my ability to scale
+        and manage intricate systems effectively. Furthermore, I have experience with dynamic
+        inventory scripting, adding another layer of automation and flexibility to managing
+        large systems.</p>
 
-        <p>In addition to Ansible, I bring extensive experience with Puppet, including writing custom modules in Ruby. I have also been responsible for orchestrating migrations to Ansible, further showcasing my versatility and adaptability in infrastructure management and automation.</p>
+        <p>In addition to Ansible, I bring extensive experience with Puppet, including
+        writing custom modules in Ruby. I have also been responsible for orchestrating migrations
+        to Ansible, further showcasing my versatility and adaptability in infrastructure
+        management and automation.</p>
     - title: Logs
       logo: images/elasticsearch.svg
       description: |
-        <p>In log management, I've extensively used ELK (Elasticsearch, Logstash, Kibana) and Loki and have directed migration from ELK to Loki. I've maintained large ELK clusters, managed multiple terabytes of logs per day, configured log collection from applications and journald, and set up audit logging.</p>
+        <p>In log management, I've extensively used ELK (Elasticsearch, Logstash, Kibana)
+        and Loki and have directed migration from ELK to Loki. I've maintained large ELK
+        clusters, managed multiple terabytes of logs per day, configured log collection from
+        applications and journald, and set up audit logging.</p>
 
-        <p>My experience extends to alerting, writing custom parsers within *beats, using ingest pipelines, and managing various index rotation policies. I have set up Access Control Lists (ACLs) for security and have worked with Application Performance Monitoring (APM) for distributed tracing.</p>
+        <p>My experience extends to alerting, writing custom parsers within *beats, using
+        ingest pipelines, and managing various index rotation policies. I have set up Access
+        Control Lists (ACLs) for security and have worked with Application Performance
+        Monitoring (APM) for distributed tracing.</p>
 
-        <p>Creating custom dashboards is one of my competencies, providing tailored views on the system's performance and status. I've been responsible for log parsing and tuning settings in Loki, including cost reduction on Amazon DynamoDB. I have also created custom dashboards in Grafana, ensuring appropriate access control for these dashboards. This proficiency underscores my ability to handle large-scale, complex logging infrastructure efficiently.</p>
+        <p>Creating custom dashboards is one of my competencies, providing tailored views on
+        the system's performance and status. I've been responsible for log parsing and tuning
+        settings in Loki, including cost reduction on Amazon DynamoDB. I have also created
+        custom dashboards in Grafana, ensuring appropriate access control for these
+        dashboards. This proficiency underscores my ability to handle large-scale, complex
+        logging infrastructure efficiently.</p>
     - title: Metrics
       logo: images/prometheus.svg
       description: |
-        <p>For metrics, I've predominantly used Prometheus and VictoriaMetrics. I've been responsible for their setup, tuning, and alerting configurations. I am proficient in forming complex queries using PromQL features such as subqueries, group modifiers, and aggregations. I've also used recording rules to create new time series.</p>
+        <p>For metrics, I've predominantly used Prometheus and VictoriaMetrics. I've been
+        responsible for their setup, tuning, and alerting configurations. I am proficient in
+        forming complex queries using PromQL features such as subqueries, group modifiers,
+        and aggregations. I've also used recording rules to create new time series.</p>
 
-        <p>My experience extends to setting up integrations with service discovery and managing long-term storage for metrics. I've set up advanced alerting systems, including complex routing and inhibit rules to ensure accurate and efficient alerts.</p>
+        <p>My experience extends to setting up integrations with service discovery and
+        managing long-term storage for metrics. I've set up advanced alerting systems,
+        including complex routing and inhibit rules to ensure accurate and efficient alerts.</p>
 
-        <p>I have written around fifteen custom exporters in Python and Golang. Additionally, I've contributed to community projects, emphasizing my commitment to improving and sharing knowledge within the tech community.</p>
+        <p>I have written around fifteen custom exporters in Python and Golang. Additionally,
+        I've contributed to community projects, emphasizing my commitment to improving and
+        sharing knowledge within the tech community.</p>
     - title: Visualization
       logo: images/grafana.svg
       description: |
-        <p>I have extensively used Grafana for visualization, carrying out the entire setup cycle, configuration, and support. In addition to creating and managing backups, I've managed Grafana through Terraform, providing an Infrastructure as Code (IaC) approach to visualization management.</p>
+        <p>I have extensively used Grafana for visualization, carrying out the entire setup
+        cycle, configuration, and support. In addition to creating and managing backups, I've
+        managed Grafana through Terraform, providing an Infrastructure as Code (IaC) approach
+        to visualization management.</p>
 
-        <p>In the companies I've worked for, I've established general guidelines for creating charts, promoting consistency and clarity across teams. Part of my role has also been to reduce the load on metrics storage by correctly configuring dashboards.</p>
+        <p>In the companies I've worked for, I've established general guidelines for
+        creating charts, promoting consistency and clarity across teams. Part of my role
+        has also been to reduce the load on metrics storage by correctly configuring
+        dashboards.</p>
 
-        <p>Beyond Grafana, I've used Kibana from the ELK stack for visualization, creating custom dashboards as needed. This experience demonstrates my ability to adapt to different visualization tools and make insightful, comprehensive visual representations of data.</p>
+        <p>Beyond Grafana, I've used Kibana from the ELK stack for visualization,
+        creating custom dashboards as needed. This experience demonstrates my ability to
+        adapt to different visualization tools and make insightful, comprehensive visual
+        representations of data.</p>
     - title: Service descovery
       logo: images/consul.svg
       description: |
-        <p>My expertise with Consul extends to implementing secure access controls, managing the cluster's health, and facilitating seamless service-to-service communication. I have handled various use cases ranging from small-scale local developments to large-scale production environments with hundreds of services, demonstrating my versatility in diverse setups.</p>
+        <p>My expertise with Consul extends to implementing secure access controls, managing
+        the cluster's health, and facilitating seamless service-to-service communication.
+        I have handled various use cases ranging from small-scale local developments to
+        large-scale production environments with hundreds of services, demonstrating my
+        versatility in diverse setups.</p>
 
-        <p>An essential part of my work with Consul involved designing service mesh architectures. This entailed managing network traffic flow between services, ensuring secure service-to-service communication, and enforcing policies.</p>
+        <p>An essential part of my work with Consul involved designing service mesh
+        architectures. This entailed managing network traffic flow between services,
+        ensuring secure service-to-service communication, and enforcing policies.</p>
 
-        <p>With my proficiency in service discovery and networking, I've helped organizations improve their microservices architecture by enhancing the discoverability of services and making inter-service communication more reliable and secure.</p>
+        <p>With my proficiency in service discovery and networking, I've helped organizations
+        improve their microservices architecture by enhancing the discoverability of services
+        and making inter-service communication more reliable and secure.</p>
 
-        <p>In addition to etcd and Consul, I have familiarized myself with other service discovery tools and key-value stores like Zookeeper. I've used these tools to manage service metadata and orchestrate Docker containers in distributed systems, reinforcing my expertise in managing microservices at scale.</p>
+        <p>In addition to etcd and Consul, I have familiarized myself with other service
+        discovery tools and key-value stores like Zookeeper. I've used these tools to manage
+        service metadata and orchestrate Docker containers in distributed systems,
+        reinforcing my expertise in managing microservices at scale.</p>
 
-        <p>Overall, my extensive experience with service discovery tools like Consul and etcd demonstrates my understanding of modern distributed systems and my ability to manage and optimize these systems effectively.</p>
+        <p>Overall, my extensive experience with service discovery tools like Consul and
+        etcd demonstrates my understanding of modern distributed systems and my ability to
+        manage and optimize these systems effectively.</p>
     - title: Credential management
       logo: images/vault.svg
       description: |
-        <p>As a HashiCorp Certified Vault Associate, I understand Vault's architecture and features comprehensively, allowing me to manage secrets and protect sensitive data in different environments effectively.</p>
+        <p>As a HashiCorp Certified Vault Associate, I understand Vault's architecture and
+        features comprehensively, allowing me to manage secrets and protect sensitive data
+        in different environments effectively.</p>
 
-        <p>I have utilized the dynamic secrets feature of Vault extensively, allowing systems to access databases, on-demand SSH sessions, cloud environments, and other services without knowing their credentials. These are generated on-the-fly, reducing the risk of exposure.</p>
+        <p>I have utilized the dynamic secrets feature of Vault extensively, allowing systems
+        to access databases, on-demand SSH sessions, cloud environments, and other services
+        without knowing their credentials. These are generated on-the-fly, reducing the risk
+        of exposure.</p>
 
-        <p>I have secured, stored, and tightly controlled access to tokens, passwords, certificates, and encryption keys for protecting secrets and other sensitive data using Vault. My understanding of Identity-based Access, ACL policies, and secret engines have allowed me to ensure that only authorized entities can access the data.</p>
+        <p>I have secured, stored, and tightly controlled access to tokens, passwords,
+        certificates, and encryption keys for protecting secrets and other sensitive data
+        using Vault. My understanding of Identity-based Access, ACL policies, and secret
+        engines have allowed me to ensure that only authorized entities can access the data.</p>
 
-        <p>In terms of encryption, I have utilized Vault's transit secret engine to enable encryption as a service, providing cryptographic operations without revealing sensitive cryptographic keys. I have also implemented Vault's Key Management Secret Engine to manage cryptographic keys for external systems, further ensuring data security.</p>
+        <p>In terms of encryption, I have utilized Vault's transit secret engine to enable
+        encryption as a service, providing cryptographic operations without revealing
+        sensitive cryptographic keys. I have also implemented Vault's Key Management Secret
+        Engine to manage cryptographic keys for external systems, further ensuring data
+        security.</p>
 
-        <p>I've integrated Vault with Consul to provide high availability and secure the storage backend. In addition, I've used Vault's built-in integrations with cloud providers, databases, and third-party systems to manage their secrets effectively.</p>
+        <p>I've integrated Vault with Consul to provide high availability and secure the
+        storage backend. In addition, I've used Vault's built-in integrations with cloud
+        providers, databases, and third-party systems to manage their secrets effectively.</p>
 
-        <p>With Puppet and Ansible, I've implemented encrypted data bags and Ansible Vault, respectively, to secure secrets like database passwords, API tokens, and SSH keys. I've integrated HashiCorp's Vault into these configurations, providing an additional layer of security and facilitating centralized secret management.</p>
+        <p>With Puppet and Ansible, I've implemented encrypted data bags and Ansible Vault,
+        respectively, to secure secrets like database passwords, API tokens, and SSH keys.
+        I've integrated HashiCorp's Vault into these configurations, providing an additional
+        layer of security and facilitating centralized secret management.</p>
 
-        <p>As part of my Infrastructure as Code (IaC) practices, I have integrated Vault with Terraform, allowing secure provisioning and management of infrastructure by dynamically generating credentials or leveraging encryption as a service.</p>
+        <p>As part of my Infrastructure as Code (IaC) practices, I have integrated Vault
+        with Terraform, allowing secure provisioning and management of infrastructure by
+        dynamically generating credentials or leveraging encryption as a service.</p>
 
-        <p>Overall, my certification and experience with Vault demonstrate my ability to ensure high security in handling sensitive data and managing secrets in a distributed and diverse environment.</p>
+        <p>Overall, my certification and experience with Vault demonstrate my ability to
+        ensure high security in handling sensitive data and managing secrets in a
+        distributed and diverse environment.</p>
     - title: CI/CD
       logo: images/github-actions.svg
       description: |
-        <p>My experience in CI/CD practices spans various popular tools like GitHub Actions, Jenkins, GitLab CI, and Bitbucket Pipelines. Leveraging these platforms, I have orchestrated robust pipelines, enabling automated build, test, and deployment of applications across various environments, from development to production.</p>
+        <p>My experience in CI/CD practices spans various popular tools like GitHub
+        Actions, Jenkins, GitLab CI, and Bitbucket Pipelines. Leveraging these platforms,
+        I have orchestrated robust pipelines, enabling automated build, test, and deployment
+        of applications across various environments, from development to production.</p>
 
-        <p>I've orchestrated workflows with GitHub Actions that automate software development practices from the repository. From simple unit tests and linting to complex build pipelines with matrix testing across various environments and multiple stages, I've set up a broad range of automated workflows to ensure high-quality code.</p>
+        <p>I've orchestrated workflows with GitHub Actions that automate software
+        development practices from the repository. From simple unit tests and linting to
+        complex build pipelines with matrix testing across various environments and
+        multiple stages, I've set up a broad range of automated workflows to ensure
+        high-quality code.</p>
 
-        <p>In Jenkins, I've used both freestyle jobs and pipelines-as-code through Jenkinsfiles, providing version-controlled, reusable, and complex pipelines. My experience extends to setting up Jenkins Masters and Agents, optimizing them for performance, and using plugins to extend Jenkins' capabilities.</p>
+        <p>In Jenkins, I've used both freestyle jobs and pipelines-as-code through
+        Jenkinsfiles, providing version-controlled, reusable, and complex pipelines.
+        My experience extends to setting up Jenkins Masters and Agents, optimizing them for
+        performance, and using plugins to extend Jenkins' capabilities.</p>
 
-        <p>My use of GitLab CI has involved leveraging .gitlab-ci.yml to describe the pipeline stages, the jobs within each step, and the runners executing the jobs. I've also set up GitLab runners in various configurations, and I've used the GitLab Container Registry for storing Docker images built as part of the CI/CD process.</p>
+        <p>My use of GitLab CI has involved leveraging .gitlab-ci.yml to describe the
+        pipeline stages, the jobs within each step, and the runners executing the jobs. I've
+        also set up GitLab runners in various configurations, and I've used the GitLab
+        Container Registry for storing Docker images built as part of the CI/CD process.</p>
 
-        <p>With Bitbucket Pipelines, I've worked extensively with bitbucket-pipelines.yml to create efficient workflows, enabling automated continuous integration in Bitbucket Cloud.</p>
+        <p>With Bitbucket Pipelines, I've worked extensively with bitbucket-pipelines.yml to
+        create efficient workflows, enabling automated continuous integration in Bitbucket
+        Cloud.</p>
 
-        <p>Across all these platforms, I've integrated various testing suites, artifact management systems, and deployment tools. Furthermore, I've incorporated Infrastructure as Code (IaC) tools such as Terraform and Ansible into the pipelines to automate infrastructure setup and configuration.</p>
+        <p>Across all these platforms, I've integrated various testing suites, artifact
+        management systems, and deployment tools. Furthermore, I've incorporated
+        Infrastructure as Code (IaC) tools such as Terraform and Ansible into the pipelines
+        to automate infrastructure setup and configuration.</p>
 
-        <p>In summary, I can architect and implement CI/CD pipelines that streamline software development, improve code quality, and reduce the time-to-market.</p>
+        <p>In summary, I can architect and implement CI/CD pipelines that streamline software
+        development, improve code quality, and reduce the time-to-market.</p>
     - title: OpenSource
       logo: images/github.svg
       description: |
-        <p>My extensive Open Source experience involves contributions to many projects, from simple bug fixes to implementing caching from local DNS resolvers in systemd. I constantly collaborate with the community, raise issues, and contribute to solution development.</p>
+        <p>My extensive Open Source experience involves contributions to many projects, from
+        simple bug fixes to implementing caching from local DNS resolvers in systemd. I
+        constantly collaborate with the community, raise issues, and contribute to solution
+        development.</p>
 
-        <p>I am a member of the Vox Pupuli (a group of Puppet developers) and Cyprus Developer Community. In addition, I also maintain my pet projects, which allow me to explore new areas of software development, find innovative solutions, and experiment with emerging technologies.</p>
+        <p>I am a member of the Vox Pupuli (a group of Puppet developers) and Cyprus
+        Developer Community. In addition, I also maintain my pet projects, which allow me to
+        explore new areas of software development, find innovative solutions, and experiment
+        with emerging technologies.</p>
 
-        <p>This work not only fulfills my passion for coding but also helps in my professional growth. It has been an excellent platform for me to share my knowledge, learn from peers globally, and stay updated with the latest industry trends. My contributions to the open-source community underscore my commitment to continual learning and development, as well as my ability to collaborate effectively with diverse teams.</p>
+        <p>This work not only fulfills my passion for coding but also helps in my
+        professional growth. It has been an excellent platform for me to share my knowledge,
+        learn from peers globally, and stay updated with the latest industry trends. My
+        contributions to the open-source community underscore my commitment to continual
+        learning and development, as well as my ability to collaborate effectively with
+        diverse teams.</p>
     - title: Leadership
       logo: images/atlassian.svg
       description: |
-        <p>Beyond my technical capabilities, I bring substantial leadership experience to the table. I have assumed the role of a team lead twice and served as a technical lead once, managing a team of 25 individuals.</p>
+        <p>Beyond my technical capabilities, I bring substantial leadership experience
+        to the table. I have assumed the role of a team lead twice and served as a
+        technical lead once, managing a team of 25 individuals.</p>
 
-        <p>These roles involved various responsibilities such as project planning, reporting, conducting 1-on-1 sessions, setting remunerations, and executing hiring processes, including interviews. Through these experiences, I have developed strong team management skills, an ability to delegate effectively, and a knack for inspiring team members to deliver their best work.</p>
+        <p>These roles involved various responsibilities such as project planning, reporting,
+        conducting 1-on-1 sessions, setting remunerations, and executing hiring processes,
+        including interviews. Through these experiences, I have developed strong team
+        management skills, an ability to delegate effectively, and a knack for inspiring
+        team members to deliver their best work.</p>
 
-        <p>I understand the importance of communication and fostering a positive work environment. As a leader, I encourage open dialogue and ensure team members feel heard and valued. I'm adept at identifying individual strengths within a team and leveraging those to optimize team productivity. Additionally, I strive to maintain a clear vision and set achievable goals to align all team efforts toward a common objective.</p>
+        <p>I understand the importance of communication and fostering a positive work
+        environment. As a leader, I encourage open dialogue and ensure team members
+        feel heard and valued. I'm adept at identifying individual strengths within a
+        team and leveraging those to optimize team productivity. Additionally, I strive to
+        maintain a clear vision and set achievable goals to align all team efforts
+        toward a common objective.</p>
 
-        <p>Moreover, my technical expertise allows me to bridge the gap between management and technical teams, facilitating better understanding and smoother project executions. I believe that my combined technical proficiency and leadership skills uniquely position me to drive both people and projects towards success.</p>
+        <p>Moreover, my technical expertise allows me to bridge the gap between management
+        and technical teams, facilitating better understanding and smoother project
+        executions. I believe that my combined technical proficiency and leadership skills
+        uniquely position me to drive both people and projects towards success.</p>
 experience:
   enable: true
   item:
@@ -238,9 +442,9 @@ certifications:
       url: https://www.credly.com/badges/a8279164-2b7f-4398-bf2f-94ff39a7c05c/public_url
     - title: "Certified Apache Cassandra Administrator "
       image: images/cassandra.png
-      url: https://certification.mettl.com/datastax/applicant/verify-certification-with-qr?email=me%40weastur.com&assessment=Apache%20Cassandra%203%20Administrator%20Associate%20Certification&date=Mar%2003,%202021
+      url: https://certification.mettl.com/datastax/applicant/verify-certification-with-qr?email=me%40weastur.com&assessment=Apache%20Cassandra%203%20Administrator%20Associate%20Certification&date=Mar%2003,%202021 # yamllint disable-line
     - title: "Algorithms Specialization"
-      image: https://cdn.svgporn.com/logos/coursera.svg?response-content-disposition=attachment%3Bfilename%3Dcoursera.svg
+      image: https://cdn.svgporn.com/logos/coursera.svg?response-content-disposition=attachment%3Bfilename%3Dcoursera.svg # yamllint disable-line
       url: https://www.coursera.org/account/accomplishments/specialization/certificate/37MPE873ZUQ3
 publications:
   enable: true
@@ -250,9 +454,18 @@ publications:
       description: |
         <p><strong>FIELD:</strong> computer engineering.</p>
 
-        <p><strong>SUBSTANCE:</strong> invention relates to computer engineering. Video data indexing by facet features method is characterized in that adding containing facet features video data to the data storage, wherein forming at least one combination of at least two faceted attributes of the received video data; increasing all obtained combinations each counter value by at least one; searching for video data in the data storage, wherein using only those facet features combinations, for which counters have positive value; removing video data from the data storage, wherein decreasing the video data being deleted facet features each combination each counter value by at least one.</p>
+        <p><strong>SUBSTANCE:</strong> invention relates to computer engineering.
+        Video data indexing by facet features method is characterized in that adding
+        containing facet features video data to the data storage, wherein forming at
+        least one combination of at least two faceted attributes of the received video
+        data; increasing all obtained combinations each counter value by at least one;
+        searching for video data in the data storage, wherein using only those facet
+        features combinations, for which counters have positive value; removing video
+        data from the data storage, wherein decreasing the video data being deleted facet
+        features each combination each counter value by at least one.</p>
 
-        <p><strong>EFFECT:</strong> technical result consists in reduction of the information search resource consumption in the facet classification based video data arrays.</p>
+        <p><strong>EFFECT:</strong> technical result consists in reduction of the information
+        search resource consumption in the facet classification based video data arrays.</p>
       image: images/patent.png
       pdf_link: https://patents.s3.yandex.net/RU2660599C1_20180706.pdf
 projects:
