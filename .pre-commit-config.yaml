@@ -15,6 +15,7 @@ repos:
       - id: check-toml
       - id: check-vcs-permalinks
       - id: check-xml
+        exclude: .*\.svg$
       - id: check-yaml
       - id: detect-aws-credentials
         entry: detect-aws-credentials --allow-missing-credentials
