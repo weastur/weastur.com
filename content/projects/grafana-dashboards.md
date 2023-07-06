@@ -33,11 +33,13 @@ Set of useful Grafana dashboards
 ### Flow
 
 1. Up environment
+
     ```bash
     docker-compose up -d
     ```
-1. Go to Grafana: http://127.0.0.1:3000 (admin/admin)
-1. Connect Prometheus: http://127.0.0.1:9090
+
+1. Go to Grafana: <http://127.0.0.1:3000> (admin/admin)
+1. Connect Prometheus: <http://127.0.0.1:9090>
 1. Import dashboards.
 1. Make your changes
 1. Export your dashboard and save it to appropriate folder

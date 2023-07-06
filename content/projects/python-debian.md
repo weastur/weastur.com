@@ -43,9 +43,12 @@ Look at the `build/` directory
 
 ## Internals
 
-The build process runs inside docker, *without* using cache. It was tested on Linux and macOS.
-The source code for building packages will be downloaded from the [deadsnakes](https://github.com/deadsnakes) project.
-After the build, the simple smoke test takes place, installing all packages and running Python script.
+The build process runs inside docker, *without* using cache.
+It was tested on Linux and macOS.
+The source code for building packages will be downloaded from the
+[deadsnakes](https://github.com/deadsnakes) project.
+After the build, the simple smoke test takes place, installing all packages
+and running Python script.
 
 ## Contributing
 
@@ -71,8 +74,9 @@ Only latest version – Python 3.11
 
 ### Why do not build all supported Python?
 
-There is not much sense in that. If you need all Python versions for development, look at the
-[pyenv](https://github.com/pyenv/pyenv) project or [docker images](https://hub.docker.com/_/python).
+There is not much sense in that. If you need all Python versions for development,
+look at the [pyenv](https://github.com/pyenv/pyenv) project or
+[docker images](https://hub.docker.com/_/python).
 In other cases, you can safely run old python code in the newest interpreter.
 
 ## License
