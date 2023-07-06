@@ -2,7 +2,7 @@ baseURL = 'https://weastur.com/'
 languageCode = 'en-us'
 title = 'Pavel Sapezhka - SRE | Python | Databases'
 theme="hugo-developer-portfolio"
-googleAnalytics = ""
+googleAnalytics = "G-B22LP3E5BQ"
 enableGitInfo = true
 enableRobotsTXT = true
 
