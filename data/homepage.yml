@@ -2,15 +2,10 @@
 banner:
   title: Pavel Sapezhka
 social:
-  mastodon: https://discuss.systems/@weastur
-  stackoverflow: 13375075/pavel-sapezhko
   linkedin: weastur
   github: weastur
-  facebook: psapezhka
-  instagram: weastur
   email: me@weastur.com
   telegram: weastur
-  whatsapp: m6kwpg
 about:
   enable: true
   content: SRE Specializing in Python and Databases
